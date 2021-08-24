@@ -79,6 +79,6 @@ pred_prob = clf.predict_proba(x_test)
 print ('[scikit-learn] Predicted probabilites: \n', pred_prob)
 
 pred = clf.predict(x_test)
-print('[scikit-learn] Prdeiction:', pred)
+print('[scikit-learn] Prdeiction:', pred) 
 
-#end
+# end 
